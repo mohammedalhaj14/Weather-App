@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instant Weather App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="card">
+        <div class="search">
+            <input type="text" id="cityInput" placeholder="Enter city (e.g. London)" spellcheck="false">
+            <button id="searchBtn">Search</button>
+        </div>
+        <div class="weather">
+            <img src="https://openweathermap.org/img/wn/01d@2x.png" class="weather-icon" alt="weather-icon">
+            <h1 class="temp">--°C</h1>
+            <h2 class="city">Enter a City</h2>
+            <div class="details">
+                <div class="col">
+                    <p>Wind Speed</p>
+                    <p class="wind">-- km/h</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
