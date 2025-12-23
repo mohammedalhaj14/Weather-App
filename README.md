@@ -2,10 +2,10 @@
 
 A sleek, modern weather application that provides real-time weather updates for any city globally. This project demonstrates the power of vanilla JavaScript and modern CSS to create a fast, interactive user experience using the Open-Meteo API.
 
-![Weather App Preview](https://via.placeholder.com/800x400?text=Weather+App+Preview+Image)
+![Weather App Preview](https://mohammedalhaj14.github.io/Weather-App/)
 
 ## 🚀 Live Demo
-**Check it out here:** [Link to your GitHub Pages or Vercel URL]
+**Check it out here:** [https://mohammedalhaj14.github.io/Weather-App/]
 
 ## ✨ Features
 - **Instant Search:** Get weather data by entering any city name.
