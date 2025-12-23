@@ -2,8 +2,6 @@
 
 A sleek, modern weather application that provides real-time weather updates for any city globally. This project demonstrates the power of vanilla JavaScript and modern CSS to create a fast, interactive user experience using the Open-Meteo API.
 
-![Weather App Preview](https://mohammedalhaj14.github.io/Weather-App/)
-
 ## 🚀 Live Demo
 **Check it out here:** [https://mohammedalhaj14.github.io/Weather-App/]
 
@@ -57,7 +55,5 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 Created with ❤️ by Mohammad Alhaj
-   
-1. **Clone the repository:**
    ```bash
    git clone [https://github.com/mohammedalhaj14/Weather-App.git](https://github.com/mohammedalhaj14/Weather-App.g
