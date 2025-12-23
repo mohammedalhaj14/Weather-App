@@ -55,5 +55,3 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 Created with ❤️ by Mohammad Alhaj
-   ```bash
-   git clone [https://github.com/mohammedalhaj14/Weather-App.git](https://github.com/mohammedalhaj14/Weather-App.g
